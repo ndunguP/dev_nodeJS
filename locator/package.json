@@ -1,0 +1,22 @@
+{
+  "name": "locator",
+  "version": "1.0.0",
+  "description": "finds the country of origin of the incoming request.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ip",
+    "geo",
+    "country"
+  ],
+  "author": "PETER NDUNGU <peter.ndunguoz50@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.0"
+  }
+}
